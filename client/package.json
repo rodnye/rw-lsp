@@ -1,13 +1,13 @@
 {
-  "name": "lsp-sample-client",
-  "description": "VSCode part of a language server",
-  "author": "Microsoft Corporation",
+  "name": "rw-lsp-client",
+  "description": "VS Code client for the Rusted Warfare Language Server",
+  "author": "Rodny Estrada <rrodnyestrada1@gmail.com>",
   "license": "MIT",
-  "version": "0.0.1",
-  "publisher": "vscode",
+  "version": "0.1.0",
+  "publisher": "rodnye",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Microsoft/vscode-extension-samples"
+    "url": "https://github.com/rodnye/rw-lsp"
   },
   "engines": {
     "vscode": "^1.100.0"
